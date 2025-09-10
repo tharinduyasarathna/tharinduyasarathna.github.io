@@ -1,3 +1,6 @@
 title: Tharindu Lakshan Yasarathna
-description: Doctoral Candidate at UCD | Software Engineer
-theme: jekyll-theme-cayman
+description: Doctoral Candidate at UCD | Software Engineer | BSc (Hon's)(SL) | MIEEE
+baseurl: "" # keep empty for user site
+url: "https://tharinduyasarathna.github.io"
+markdown: kramdown
+theme: null
