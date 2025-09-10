@@ -3,4 +3,4 @@ description: Doctoral Candidate at UCD | Software Engineer | BSc (Hon's)(SL) | M
 baseurl: "" # keep empty for user site
 url: "https://tharinduyasarathna.github.io"
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-modernist
